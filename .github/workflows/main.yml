@@ -1,0 +1,34 @@
+name: schedule trigger
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.1.1
+      - name: clone ros-adlist
+        run: git clone https://github.com/ffff-official/ros-adlist.git ~/ros-adlist
+      - name: fetch anti-ad rules
+        run: |
+          truncate -s0 ~/ros-adlist/ros-adlist.txt
+          curl -sL https://anti-ad.net/domains.txt | while read -r line; do [ ! ${line:0:1} == '#' ] && echo "0.0.0.0 $line"  >> ~/ros-adlist/ros-adlist.txt || echo $line >> ~/ros-adlist/ros-adlist.txt; done
+      - uses: actions/checkout@v4.1.1
+      - name: commit rules
+        run: |
+          cd ~/ros-adlist
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -am "pull newest list."
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: 'main'
+          directory: '/home/runner/ros-adlist'
+          repository: 'ffff-official/ros-adlist'                                                   
