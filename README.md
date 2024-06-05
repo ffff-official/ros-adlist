@@ -15,4 +15,4 @@ save list to file.
 /ip/dns/adlist/add file=ros-adlist.txt
 ```
 
-[http://ffff.im/posts/20240604-ros-list/](http://ffff.im/posts/20240604-ros-list/)
+[http://ffff.im/posts/20240604-ros-list/](http://ffff.im/posts/20240604-ros-adlist/)
