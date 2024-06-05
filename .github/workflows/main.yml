@@ -24,11 +24,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -am "pull newest list."
+          git commit -am "pull newest list." || true
       - name: Push changes
         uses: ad-m/github-push-action@master
-        with:
-          #github_token: ${{ secrets.TOKEN }}
+        with:          
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: 'main'
           directory: '/home/runner/ros-adlist'
