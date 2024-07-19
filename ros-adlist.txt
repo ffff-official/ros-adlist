@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240717023754
+#VER=20240718172853
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=108801
+#TOTAL_LINES=108806
 0.0.0.0 0008d6ba2e.com
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
@@ -2849,7 +2849,6 @@
 0.0.0.0 7lyonline.com
 0.0.0.0 7me0ssd6.de
 0.0.0.0 7mediaxx-ai.com
-0.0.0.0 7moor-fs1.com
 0.0.0.0 m.7n3e8o.com
 0.0.0.0 m.7nej2.com
 0.0.0.0 7nt9p4d4.de
@@ -8859,7 +8858,6 @@
 0.0.0.0 adthletic.com
 0.0.0.0 adthrive.com
 0.0.0.0 adreport.adtianmai.com
-0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 adtilt.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtiming.com
@@ -18748,6 +18746,12 @@
 0.0.0.0 boostog.net
 0.0.0.0 share.boostorder.com
 0.0.0.0 polhvf.bootbarn.com
+0.0.0.0 bootcdn.cn
+0.0.0.0 www.bootcdn.cn
+0.0.0.0 bootcdn.net
+0.0.0.0 www.bootcdn.net
+0.0.0.0 bootcss.com
+0.0.0.0 www.bootcss.com
 0.0.0.0 bootharchie.com
 0.0.0.0 smetrics.boothehvac.com
 0.0.0.0 bootstrap-framework.org
@@ -29455,7 +29459,6 @@
 0.0.0.0 terms-drcn.platform.dbankcloud.cn
 0.0.0.0 weather-community-drcn.weather.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
-0.0.0.0 oauth-login-drcn.platform.dbankcloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
 0.0.0.0 m.dbaof.com
 0.0.0.0 dbaomgnsahy.com
@@ -43415,7 +43418,6 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -88963,6 +88965,10 @@
 0.0.0.0 static-cnt.bid
 0.0.0.0 static-sb.com
 0.0.0.0 static-srv.com
+0.0.0.0 staticfile.net
+0.0.0.0 www.staticfile.net
+0.0.0.0 staticfile.org
+0.0.0.0 www.staticfile.org
 0.0.0.0 px.staticfiles.at
 0.0.0.0 staticiv.com
 0.0.0.0 staticjs.cn
@@ -104795,7 +104801,6 @@
 0.0.0.0 xiaomengquan.cn
 0.0.0.0 www.xiaomengquan.cn
 0.0.0.0 xiaomengxiong.com
-0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 mistat.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com
