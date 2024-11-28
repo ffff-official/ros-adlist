@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20241126024325
+#VER=20241127164524
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=98686
+#TOTAL_LINES=98687
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -18319,6 +18319,7 @@
 0.0.0.0 brewingjoie.com
 0.0.0.0 brewsuper.com
 0.0.0.0 brfiles.com
+0.0.0.0 brg0.com
 0.0.0.0 health.brgeneral.org
 0.0.0.0 tracking.brgeneral.org
 0.0.0.0 securemetrics.brhome.com
