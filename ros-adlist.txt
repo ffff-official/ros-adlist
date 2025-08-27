@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250826024740
+#VER=20250826173546
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=94688
+#TOTAL_LINES=94687
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -83553,7 +83553,6 @@
 0.0.0.0 tuinfra.com
 0.0.0.0 tuipenguin.com
 0.0.0.0 www.tuipenguin.com
-0.0.0.0 yun.tuisnake.com
 0.0.0.0 tuite8.com
 0.0.0.0 tuitiger.com
 0.0.0.0 www.tuitiger.com
