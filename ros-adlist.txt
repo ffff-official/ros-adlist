@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250911024446
+#VER=20250911193057
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=102534
+#TOTAL_LINES=102536
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -46311,6 +46311,7 @@
 0.0.0.0 site.comunicaciones.iesa.es
 0.0.0.0 igxqyi.iese.edu
 0.0.0.0 iesnare.com
+0.0.0.0 ietheivaicai.com
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 iewixvvsbfkwd.world
 0.0.0.0 iewjctcinxthi.space
@@ -63584,6 +63585,7 @@
 0.0.0.0 nisaapp.nexus-dt.com
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 a8clkapply.mycredit.nexuscard.co.jp
+0.0.0.0 nexusedgeio.com
 0.0.0.0 smetrics.nexusmentalhealth.com
 0.0.0.0 nexustwinkly.click
 0.0.0.0 nexx360-static.io
