@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250923024419
+#VER=20250924170038
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=102561
+#TOTAL_LINES=102562
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -67773,6 +67773,7 @@
 0.0.0.0 g1.ads.oppomobile.com
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 uapi.ads.oppomobile.com
+0.0.0.0 api.open.oppomobile.com
 0.0.0.0 opportunitysearch.net
 0.0.0.0 opposecurves.life
 0.0.0.0 oppositionduchess.com
