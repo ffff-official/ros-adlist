@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251017024658
+#VER=20251018202545
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105583
+#TOTAL_LINES=105581
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -555,7 +555,6 @@
 0.0.0.0 dma.15tianqi.com
 0.0.0.0 jsa.15tianqi.com
 0.0.0.0 16211973.xyz
-0.0.0.0 ac.dun.163.com
 0.0.0.0 adgeo.163.com
 0.0.0.0 adimg.163.com
 0.0.0.0 analytics.163.com
@@ -596,7 +595,6 @@
 0.0.0.0 16327739.xyz
 0.0.0.0 qipt.1632j6.cn
 0.0.0.0 www.163ren.com
-0.0.0.0 ac.dun.163yun.com
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 165tchuang.com
 0.0.0.0 tr.newsletter.1664france.fr
