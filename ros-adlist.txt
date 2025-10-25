@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251023024836
+#VER=20251024222849
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105409
+#TOTAL_LINES=105404
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -47036,11 +47036,7 @@
 0.0.0.0 iasbetaffiliates.com
 0.0.0.0 sc.iasds01.com
 0.0.0.0 dd.iask.cn
-0.0.0.0 iask.cn
-0.0.0.0 pic.iask.cn
-0.0.0.0 iask.com.cn
 0.0.0.0 mwzbp.iask.com.cn
-0.0.0.0 dw.iask.com.cn
 0.0.0.0 qiyeb.iaskbus.com
 0.0.0.0 wneia.iaskhot.com
 0.0.0.0 stats.iata.org
@@ -75857,7 +75853,6 @@
 0.0.0.0 ad.qun.qq.com
 0.0.0.0 ad.weixin.qq.com
 0.0.0.0 adnet.qq.com
-0.0.0.0 ads.privacy.qq.com
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 adsmind.apdcdn.tc.qq.com
 0.0.0.0 adsolution.imtt.qq.com
