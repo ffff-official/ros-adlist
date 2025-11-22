@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251120024700
+#VER=20251121212020
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=103344
+#TOTAL_LINES=103349
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -7897,6 +7897,7 @@
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfsda005.xyz
 0.0.0.0 adfunds.org
+0.0.0.0 adfunlink.com
 0.0.0.0 adfurikun.jp
 0.0.0.0 ad.adfurikun.jp
 0.0.0.0 api.adfurikun.jp
@@ -16654,6 +16655,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 bidtimize.com
 0.0.0.0 c.bidtoolads.com
+0.0.0.0 bidtoolads.com
 0.0.0.0 m.biduo.cc
 0.0.0.0 cn.bidushe.com
 0.0.0.0 bidvance.com
@@ -86285,6 +86287,7 @@
 0.0.0.0 yddtah.takingshape.com
 0.0.0.0 a8clk.takken-job.com
 0.0.0.0 traffic.taktikal.is
+0.0.0.0 takuad.com
 0.0.0.0 swwcyk.takvim.com.tr
 0.0.0.0 talaropa.com
 0.0.0.0 marketing.talbot-promo.com
@@ -88931,6 +88934,7 @@
 0.0.0.0 toazdkl.top
 0.0.0.0 tobaccosturgeon.com
 0.0.0.0 tobaltoyon.com
+0.0.0.0 tobidad.com
 0.0.0.0 tobipovsem.com
 0.0.0.0 toboads.com
 0.0.0.0 toc.io
@@ -89171,6 +89175,7 @@
 0.0.0.0 topodat.info
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 topofblogs.com
+0.0.0.0 toponad.com
 0.0.0.0 topperformance.xyz
 0.0.0.0 otx23nu6rzon.prep.toppers.com
 0.0.0.0 toppleunit.com
