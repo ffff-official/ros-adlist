@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251211025052
+#VER=20251212151759
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105132
+#TOTAL_LINES=105131
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -56189,7 +56189,6 @@
 0.0.0.0 www.liangao.com
 0.0.0.0 liangpinge.com
 0.0.0.0 liangsbeflea.shop
-0.0.0.0 dig.lianjia.com
 0.0.0.0 lianka.cn
 0.0.0.0 lianle.com
 0.0.0.0 lianmeng.com
