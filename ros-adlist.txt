@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260105024839
+#VER=20260107093428
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=106491
+#TOTAL_LINES=106489
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
@@ -10758,10 +10758,8 @@
 0.0.0.0 web.ali213.net
 0.0.0.0 alia-iso.com
 0.0.0.0 tr.info.aliae.com
-0.0.0.0 ynuf.aliapp.org
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 umdc.aliapp.org
-0.0.0.0 aliapp.org
 0.0.0.0 aliasanvil.com
 0.0.0.0 aliasfoot.com
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
