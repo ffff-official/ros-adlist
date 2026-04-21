@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260420031149
+#VER=20260420230616
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=113968
+#TOTAL_LINES=113969
 0.0.0.0 000491b06a.com
 0.0.0.0 000dn.com
 0.0.0.0 kwcdn.000dn.com
@@ -22007,6 +22007,7 @@
 0.0.0.0 utiq.cheriefm.fr
 0.0.0.0 cherriescare.com
 0.0.0.0 cherriesprospectsfaith.com
+0.0.0.0 analytics.cherry-ai.com
 0.0.0.0 cherrya04.top
 0.0.0.0 cherrytv.media
 0.0.0.0 dxrkvm.cheryls.com
